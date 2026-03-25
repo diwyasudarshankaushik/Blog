@@ -7,7 +7,7 @@ cuid: cmn3fxi0800cy2flk7wfocse3
 slug: callbacks-in-javascript-why-they-exist
 cover: https://cdn.hashnode.com/uploads/covers/696e62d612291978e735e98b/9f3dec43-e8ca-48a1-916a-1768fb0b07d8.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/696e62d612291978e735e98b/2cb71f1e-aa38-460d-957c-98825af4634d.png
-tags: javascript, callback, chaicode
+tags: javascript, frontend, web-development, callback, learntocode, devtips, chaicode, asyncprogramming
 
 ---
 
