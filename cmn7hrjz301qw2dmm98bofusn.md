@@ -50,7 +50,7 @@ async function getData() {
 }
 ```
 
-### 4\. Error Handling: Try/Catch
+## **4\. Error Handling: Try/Catch**
 
 One of the biggest wins for `async/await` is that we can use standard `try...catch` blocks, just like we do in synchronous code. This makes catching errors much more intuitive than using `.catch()`.
 
@@ -66,7 +66,7 @@ async function getUserData() {
 }
 ```
 
-### 5\. Comparison: Promises vs. Async/Await
+## **5\. Comparison: Promises vs. Async/Await**
 
 While `async/await` is built on top of Promises, the visual difference is striking:
 
@@ -100,5 +100,6 @@ try {
 *   **Sequential vs. Parallel:** Remind your readers that `await` is sequential. If tasks don't depend on each other, they might still want to use `Promise.all()`.
     
 
-### **Thank You  
-Diwya sudarshan kaushik**
+### \*\*Thank You
+
+Diwya sudarshan kaushik\*\*
